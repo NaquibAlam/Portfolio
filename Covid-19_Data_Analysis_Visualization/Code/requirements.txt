@@ -1,0 +1,16 @@
+voila
+ipyvuetify
+voila-vuetify
+bqplot
+numpy
+pandas
+matplotlib
+IPython
+pycountry_convert
+folium
+os
+datetime
+scipy
+plotly
+tabulate
+warnings
