@@ -12,4 +12,3 @@ scipy
 plotly
 IPython
 tabulate
-warnings
