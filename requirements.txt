@@ -7,7 +7,6 @@ pandas
 matplotlib
 pycountry_convert
 folium
-os
 datetime
 scipy
 plotly
